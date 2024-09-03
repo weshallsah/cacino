@@ -30,38 +30,30 @@
 				"type": "function"
 			},
 			{
-				"inputs": [
+				"inputs": [],
+				"name": "pickcard",
+				"outputs": [
 					{
-						"internalType": "uint256",
-						"name": "row",
-						"type": "uint256"
+						"internalType": "uint16",
+						"name": "",
+						"type": "uint16"
 					},
 					{
 						"internalType": "uint256",
-						"name": "col",
+						"name": "",
 						"type": "uint256"
 					},
 					{
-						"internalType": "bool",
-						"name": "value",
-						"type": "bool"
-					}
-				],
-				"name": "first",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
+						"internalType": "uint16",
+						"name": "",
+						"type": "uint16"
+					},
 					{
-						"internalType": "bool[13][4]",
-						"name": "prevcard",
-						"type": "bool[13][4]"
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
 					}
 				],
-				"name": "second",
-				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			}
@@ -94,11 +86,11 @@
 	},
 	"sources": {
 		"contract/pokar/pokar.sol": {
-			"keccak256": "0xfdf9ada7431daed2d76fea0524e8c7c5337578e24102f14c85d8c5eb5bf8d6f8",
+			"keccak256": "0x19d951c553ec0d4fa2fdcfbbc745e73c64fbd59a0d22241642e56f6fbf6001d4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1734808344524211b833724e3fc90c1bcadbbc7ea22800a53c99a833a2ca3f31",
-				"dweb:/ipfs/QmaHzw1toD4Sor34ripvv1zCHZkFc52j3GSkWALcoNEPwY"
+				"bzz-raw://95c91b5a8decb692915b5e26dbe8d7e477c77cd18dc8b738fc5479b12b6884bf",
+				"dweb:/ipfs/QmXoeReFjekucG6n54DNiYU7xr3wGZ2j4fZzcEB8MgSXxk"
 			]
 		}
 	},

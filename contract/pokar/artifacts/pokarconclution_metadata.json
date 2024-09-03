@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contract/pokar/winner.sol": "pokarconclution"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contract/pokar/winner.sol": {
+			"keccak256": "0x4cde4a7175ef9d4a8a813222ca34944e8006574356402e288850982e6a6176a8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f4633462b6bbfe4521f718aeb4db0051828abfdaa0fc64a3855948e71bd19d5f",
+				"dweb:/ipfs/QmebmJxVF7diCPDdrGBvvr4gBjsjLCimeCB7yvLg8rE59W"
+			]
+		}
+	},
+	"version": 1
+}
