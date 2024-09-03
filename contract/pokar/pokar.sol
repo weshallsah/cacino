@@ -13,7 +13,7 @@ contract pokar{
         suit/=10;
         random/=100;
         card[suit%4][random%13] = true;
-        return (suit1,card1,suit,random);
+        return (suit1,card1,suit%4,random%13);
     }
     // function second(bool[13][4] memory prevcard) public {
         

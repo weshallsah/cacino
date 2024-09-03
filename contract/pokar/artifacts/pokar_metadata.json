@@ -86,11 +86,11 @@
 	},
 	"sources": {
 		"contract/pokar/pokar.sol": {
-			"keccak256": "0x19d951c553ec0d4fa2fdcfbbc745e73c64fbd59a0d22241642e56f6fbf6001d4",
+			"keccak256": "0x6dc4552c0f91b9e7bad094c0a8857a40178196adba6a593f4ecd97859299f9f7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://95c91b5a8decb692915b5e26dbe8d7e477c77cd18dc8b738fc5479b12b6884bf",
-				"dweb:/ipfs/QmXoeReFjekucG6n54DNiYU7xr3wGZ2j4fZzcEB8MgSXxk"
+				"bzz-raw://12f9e254f6590f0494add8c7782944c0fa9f8021c6eda6156115848ed83cfd0f",
+				"dweb:/ipfs/QmZaBGfYz5ZPWJnu6zBxZrpRvnVcyNeScWJVW5iQ6N9uow"
 			]
 		}
 	},
